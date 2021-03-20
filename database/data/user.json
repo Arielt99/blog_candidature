@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Default Author",
+        "email":"author@mail.com",
+        "password":"Author2021",
+        "role_id":1
+    },
+    {
+        "name":"Default Moderator",
+        "email":"moderator@mail.com",
+        "password":"Moderator2021",
+        "role_id":2
+    },
+    {
+        "name":"Default Administrator",
+        "email":"administrator@mail.com",
+        "password":"Admin2021",
+        "role_id":3
+    }
+]

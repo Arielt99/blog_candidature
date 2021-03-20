@@ -1,0 +1,11 @@
+[
+    {
+        "name":"Author"
+    },
+    {
+        "name":"Moderator"
+    },
+    {
+        "name":"Administrator"
+    }
+]
